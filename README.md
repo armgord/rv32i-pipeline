@@ -1,7 +1,6 @@
 # RV32I 5-Stage Pipelined Core (SystemVerilog)
 
-A classic 5-stage in-order RISC-V core (IF / ID / EX / MEM / WB) written in SystemVerilog, simulated with Icarus Verilog. I'm building it alongside my computer architecture course at UCLA (CS M151B) to get the pipeline details right in actual RTL instead of on paper.
-
+A classic 5-stage in-order RISC-V core (IF / ID / EX / MEM / WB) written in SystemVerilog, simulated with Icarus Verilog.
 **Status: work in progress.** Most of RV32I runs and the directed tests pass, but it isn't complete or compliance-tested yet (see the TODO list below).
 
 ## Pipeline
